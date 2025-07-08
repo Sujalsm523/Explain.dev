@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "AI Code Explainer",
+  "version": "1.1",
+  "description": "Select any code snippet, right-click, and get a clear explanation powered by AI.",
+  "permissions": ["storage", "activeTab", "contextMenus"],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
