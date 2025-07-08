@@ -5,9 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="https://placehold.co/800x400/1F2937/FFFFFF?text=explain.dev%20Demo" alt="explain.dev Demo GIF">
-</p>
-<p align="center">
   <em>A demo GIF showing the selection of code, right-clicking, and the popup generating an explanation would go here.</em>
 </p>
 
@@ -103,13 +100,4 @@ To get a local copy up and running, follow these simple steps.
 -   **Google Gemini API**
 -   **Tailwind CSS** for styling
 
-## 🔮 Future Improvements
 
-- [ ] **Search History:** Add a search bar to the History tab to quickly find past explanations.
-- [ ] **Save Prompts:** Allow users to save their favorite custom prompts for reuse.
-- [ ] **Code Highlighting:** Implement a syntax highlighter (like Prism.js or highlight.js) for the code displayed in the popup and history.
-- [ ] **Export History:** Add a button to export the history log as a JSON or Markdown file.
-
-## 📄 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
